@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 
-- 🌱 I’m currently learning **CPP**
+- 🌱 I’m currently Pursuing **PG DAC at CDAC Kharghar, Mumbai**
 
 - 📫 How to reach me **nareshlokhande49@gmail.com**
 
