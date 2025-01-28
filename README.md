@@ -7,8 +7,8 @@
 ---
 
 <div align="center">
-  🎓 Successfully completed **PG-DAC** from **CDAC Kharghar**, Mumbai  
-  💡 Enthusiastic about exploring new technologies and solving real-world problems
+  <p 🎓 Successfully completed PG-DAC from CDAC Kharghar, Mumbai></p>  
+  <p 💡 Enthusiastic about exploring new technologies and solving real-world problems></p>
 </div>
 
 <br/>
