@@ -43,9 +43,6 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=NareshLokhande&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
   <br/><br/>
-  <a href="https://roadmap.sh">
-    <img src="https://roadmap.sh/card/tall/66d28516553501e3c340d0a0?variant=dark" alt="Learning Roadmap" />
-  </a>
 </div>
 
 ---
