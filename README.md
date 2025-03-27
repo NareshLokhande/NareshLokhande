@@ -1,54 +1,66 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World!+👋;+I'm+Naresh+Lokhande!;" />
-</h1>
-
-<h3 align="center">Software Developer | Passionate about building impactful solutions</h3>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2E3B42"/>
 
 <div align="center">
-  <p 🎓 Successfully completed PG-DAC from CDAC Kharghar, Mumbai></p>  
-  <p 💡 Enthusiastic about exploring new technologies and solving real-world problems></p>
+  <samp>
+    <b>
+      <br>
+      <span style="color: #E0F2F1;">Hello, my name is Naresh!</span>
+      <br>
+    </b>
 </div>
 
-<br/>
+<br>
 
-<div align="center"> 
-  <a href="mailto:nareshlokhande49@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/nareshlokhande/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<div align="center">
+  
+  🚀 **Building Scalable Web Applications & AI Solutions**  
+  ☁️ **Cloud | DevOps | Microservices**  
+  🔥 Passionate about **LLMs, Next.js, Spring Boot, and Cloud Technologies**  
+  📍 **Always Learning & Innovating!**  
 </div>
 
 ---
 
-<h2 align="center">⚒️ Skills & Technologies ⚒️</h2>
-<br/>
+### 🔧 **Tech Stack & Tools**
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mui,react,nextjs,javascript,typescript,nodejs,express" /><br/>
-    <img src="https://skillicons.dev/icons?i=spring,java,c,mysql,mongodb,vscode,github,git,figma,notion" />
-</div>
-
-<br/>
-
----
-
-<h2 align="center">📊 GitHub Stats 📊</h2>
-<br/>
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NareshLokhande&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats" />
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=NareshLokhande&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=NareshLokhande&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
-  <br/><br/>
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" />
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" />
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" />
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" />
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" />
 </div>
 
 ---
 
-<h2 align="center">💡 Let's Connect 💡</h2>
-<br/>
+### 🌍 **Connect with Me**
 <div align="center">
-  I'm always open to collaborations and discussions about technology. Feel free to reach out!
+
+[![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=red)](mailto:nareshlokhande49@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nareshlokhande/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NareshLokhande)
+
 </div>
+
+---
+
+### 📊 **GitHub Stats**  
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NareshLokhande&theme=tokyonight" width="650" />
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NareshLokhande&theme=tokyonight" width="325" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NareshLokhande&theme=tokyonight" width="325" />
+</div>
+
+---
+
+<p align="center">
+  "Passionate about learning, building, and innovating. Open to collaborations!"
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E3B42&height=100&section=footer"/>
